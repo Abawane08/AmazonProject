@@ -1,0 +1,6 @@
+[INFO ] 2021-02-05 12:46:01.145 [main] BaseClass - Ämazon Url is launched
+[INFO ] 2021-02-05 12:46:01.419 [main] BaseClass - driver loading....
+[DEBUG] 2021-02-05 12:46:01.448 [main] ListenerTest - I am in onTestStart test folder named demo1
+[INFO ] 2021-02-05 12:46:01.503 [main] HomePage - Actual Page Title is:Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2021-02-05 12:46:09.192 [main] ProductPage - Buy now botton functionality is working as expected
+[DEBUG] 2021-02-05 12:46:09.709 [main] ListenerTest - I am in onFinish test folder named Test
